@@ -14,7 +14,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import com.crm.qa.util.TestUtil;
 
 public class TestBase {
-	//Test comments by Sush
+	//Test comments by Raj
 	
 	public static WebDriver driver;
 	public static Properties prop;
