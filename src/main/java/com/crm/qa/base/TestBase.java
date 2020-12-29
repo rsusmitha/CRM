@@ -14,11 +14,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import com.crm.qa.util.TestUtil;
 
 public class TestBase {
-<<<<<<< HEAD
-	//Test comments by Raj
-=======
-	//Test comments by Sush1
->>>>>>> f8913d61a6788ba9df4b3088d67cc1df587402d8
+	//Test comments by RajGopal
 	
 	public static WebDriver driver;
 	public static Properties prop;
