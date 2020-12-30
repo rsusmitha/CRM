@@ -13,6 +13,7 @@ public class LoginPageTest extends TestBase{
 	LoginPage loginPage;
 	HomePage homePage;
 	
+	// annotations and priorities added to the LoginPageTest
 	public LoginPageTest() {
 		super();
 	}
